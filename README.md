@@ -9,4 +9,4 @@
 <li>TF-IDF + NB	0.87</li>
 <li>TF-IDF + RF	0.96</li>
 <li>LSTM	0.97</li>
-
+## Kết quả sử dụng phương pháp GAN trong xác định kiểu tấn công mới với các bộ trích xuất đặc trưng:
