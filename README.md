@@ -21,3 +21,5 @@
 |BOW|TF-IDF|Word2Vec|
 |:-----:|:----------:|:------------:|
 |0.77|0.78|0.63|
+
+Kết hợp LSTM (Long Short-Term Memory) vào mô hình sinh (generative model) của GAN (Generative Adversarial Network) có thể mang lại nhiều lợi ích trong việc tạo ra dữ liệu mới có tính tương quan cao và có ý nghĩa. Kết quả tốt nhất hiện nay là đạt 77-80% accuracy.
